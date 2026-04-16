@@ -6,6 +6,9 @@ Whether I am building web platforms, designing automation tools, or training mod
 
 ---
 
+**Gold Medalist Calligrapher**
+**3x National Award Winner in Art Category**
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages/Frameworks/Libraries:**
