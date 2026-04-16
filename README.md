@@ -4,10 +4,12 @@ I am a Tech student. My work bridges the gap between structured software develop
 
 Whether I am building web platforms, designing automation tools, or training models, I focus on writing clean, scalable, and well-structured code.
 
+**Portfolio:** [Click to visit Portfolio](https://abdulrafayau.github.io/AbdulRafay/)
+
 ---
 
-**Gold Medalist Calligrapher**
-**3x National Award Winner in Art Category**
+* **Gold Medalist Calligrapher**
+* **3x National Award Winner in Art Category**
 
 ### 🛠️ Tech Stack & Tools
 
