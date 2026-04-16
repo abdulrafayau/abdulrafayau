@@ -10,8 +10,10 @@ Whether I am building web platforms, designing automation tools, or training mod
 
 **Languages/Frameworks/Libraries:**
 * Python
+* C
 * C++
 * JavaScript
+* TypeScript
 * Angular
 * HTML
 * CSS
@@ -26,4 +28,4 @@ Whether I am building web platforms, designing automation tools, or training mod
 I am always open to discussing new projects, tech collaborations, or opportunities in software engineering and AI.
 
 * **LinkedIn:** [Abdul Rafay on LinkedIn](https://www.linkedin.com/in/abdulrafayqar/)
-* 
+* **Instagram** [Abdul Rafay on Instagram](https://www.instagram.com/abdulrafayqar/)
